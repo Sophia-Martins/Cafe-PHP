@@ -1,0 +1,152 @@
+
+#cads{
+    width: 100px;
+    height: 36px;
+    background: #592B1B;
+    border-radius: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 29px;
+    color: #FFFFFF;
+    border: none;
+}
+
+#DadoP{
+    margin-top: -5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 39px;
+    color: #8A512C;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+}
+    
+#DadoPR{
+    margin-top: 59px;
+    margin-right: 70px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 39px;
+    color: #8A512C;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+}
+
+.text-area{
+    width: 350px;
+    height: 90px;
+    resize: vertical;
+    white-space: pre-wrap;
+    border-radius: 5px;
+    border: 2px solid #8A512C;
+}
+
+.radio{
+    border: 2px solid #8A512C;
+}
+
+.letraa{
+    margin-top: 300px;
+}
+
+input{
+    height: 24px;
+    border-radius: 5px;
+    border: 2px solid #8A512C;
+}
+    
+#Voltar{
+    width: 90px;
+    height: 36px;
+    background: #FFFFFF;
+    border: 2px solid #592B1B;
+    border-radius: 10px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 29px;
+    color: #592B1B;
+    margin-left: 80px;
+}
+
+#Letra{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 0px;
+}
+
+.container{
+    background-color: azure; 
+    width: 700px; height: 400px; 
+    margin-left: 30%; 
+    margin-top: 10%; 
+    border-left: 70px solid #592B1B;
+    background: #FFFFFF;
+    box-shadow: 30px 30px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    padding: 20px;
+}
+
+h1{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 48px;
+    color: #592B1B;
+}
+
+button{
+    margin-top: 50px;
+                
+}
+
+.button[cads] :hover{
+    background: #6e3724;
+    color: #FFFFFF;
+    border-radius: 15px;
+}
+
+.pesquisar{
+    background-color: #CAAF99;
+    width: 1300px;
+    height: 150;
+    border-radius: 5px;
+    border: none;
+    margin-top: 30px;
+}
+
+.menu{
+    background-color: #592B1B;
+    width: 80px;
+    height: 100%;
+    position: absolute;
+    text-align: center;
+}
+
+img{
+    width: 60px;
+    height: 60px;
+}
+
+.icon{
+    margin-top: 65px;
+}
+
+.perfil{
+    margin-top: 30px;
+}
+
+.sair{
+    margin-top: 30px;
+    
+}

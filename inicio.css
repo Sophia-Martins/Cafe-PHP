@@ -1,0 +1,44 @@
+.pesquisar{
+    background-color: #CAAF99;
+    width: 1300px;
+    height: 150;
+    border-radius: 5px;
+    border: none;
+    margin-top: 30px;
+}
+
+.menu{
+    background-color: #592B1B;
+    width: 80px;
+    height: 100%;
+    position: absolute;
+    text-align: center;
+}
+
+img{
+    width: 60px;
+    height: 60px;
+}
+
+.icon{
+    margin-top: 65px;
+}
+
+.perfil{
+    margin-top: 30px;
+}
+
+.sair{
+    margin-top: 30px;
+    
+}
+
+.mensagem{
+
+    width: 100%;
+    background-color: #CAAF99 ;
+    border: solid 2px ;
+    border-color: #592B1B;
+}
+
+  
